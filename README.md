@@ -1,7 +1,5 @@
 # 📚 Discrete Mathematics (ডিসক্রিট ম্যাথমেটিক্স) — Exam Preparation Guide (বাংলায়)
 
-## বিষয়: Question 34 এবং Question 35 এর পূর্ণাঙ্গ ব্যাখ্যা
-
 ---
 
 # 🔷 পার্ট ১: Relation (সম্পর্ক) এর Properties (বৈশিষ্ট্য)
@@ -788,8 +786,3 @@ d [ 0  1  0  1 ]
 | Power set-এ ∅ ভুলে যাওয়া | P(A) তে ∅ always member |
 
 ---
-
-> **আল্লাহ তোমার সহায় হোন। 🤲 তুমি পারবে, ইনশাআল্লাহ!**
-> 
-> **Created by:** AI Study Assistant
-> **Date:** June 25, 2026
