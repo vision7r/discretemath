@@ -1,4 +1,4 @@
-# 📚 Discrete Mathematics (ডিসক্রিট ম্যাথমেটিক্স) — Exam Preparation Guide (বাংলায়)
+# 📚 Discrete Mathematics (ডিসক্রিট ম্যাথমেটিক্স) — Exam Preparation Guide 
 
 ---
 
